@@ -1,0 +1,37 @@
+body {
+    background-color: #F5C7C0;
+}
+.divreceitageral {
+    margin-top: 50px;
+    padding-top: 5px;
+    height:150px;
+    background-color: #C0D8E3;
+    width: 600px;
+    height: 2000px;
+    display: block;
+    margin: auto;
+  }
+
+  .receita {
+    background-color: #FDF6F2;
+    width: 590px;
+    height: auto;
+    margin: auto;
+    align-items: center;
+    display: block;
+    text-align: center;
+
+  }
+
+  .head {
+      width: 100%;
+  }
+
+  .img {
+      margin: auto;
+      max-height: 500px;
+  }
+
+  .texto {
+      padding: 20px;
+  }
