@@ -36,7 +36,9 @@
       "name": "Twitter, Inc."
     }
   ],
-  "dependencies": {},
+  "dependencies": {
+    "sass": "^1.26.5"
+  },
   "deprecated": false,
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "devDependencies": {
